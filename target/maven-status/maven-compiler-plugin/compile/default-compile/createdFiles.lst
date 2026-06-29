@@ -1,6 +1,8 @@
+com/mycompany/pbo14d/frame/PetugasTampilFrame.class
 com/mycompany/pbo14d/frame/PenerbitTampilFrame.class
-com/mycompany/pbo14d/App.class
 com/mycompany/pbo14d/frame/PenerbitTampilFrame$1.class
-com/mycompany/pbo14d/frame/PenerbitTambahFrame.class
 com/mycompany/pbo14d/model/Penerbit.class
+com/mycompany/pbo14d/model/Petugas.class
+com/mycompany/pbo14d/App.class
+com/mycompany/pbo14d/frame/PenerbitTambahFrame.class
 com/mycompany/pbo14d/db/Koneksi.class
